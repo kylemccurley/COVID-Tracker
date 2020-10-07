@@ -1,2 +1,0 @@
-# COVID-Tracker
-![](map.png)
